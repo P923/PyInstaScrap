@@ -1,0 +1,7 @@
+wordcloud~=1.8.1
+numpy~=1.18.5
+dominate~=2.6.0
+ipywidgets~=7.5.1
+Pillow~=7.0.0
+tqdm~=4.50.2
+instagram-private-api @ git+https://git@github.com/ping/instagram_private_api.git@1d70e99bc11591161b0cd71cff3f0c08cd04b34f

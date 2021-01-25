@@ -1,6 +1,6 @@
 <h1 align="center">
   <div ALIGN="center">
-    <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/main/imgs/ic.jpeg" width="300px" height="300px" />
+    <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/master/imgs/ic.jpeg" width="300px" height="300px" />
   </div>
   <br /><br />
   InstaScrap</h1>
@@ -22,13 +22,13 @@
 </div>
 
 <div align="center">
-   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/main/imgs/4.jpg" width="60%" />
+   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/master/imgs/4.jpg" width="60%" />
    <br/>
-   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/main/imgs/1.png" width="60%"/>
+   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/master/imgs/1.png" width="60%"/>
    <br/>
-   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/main/imgs/2.jpg" width="60%" />
+   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/master/imgs/2.jpg" width="60%" />
    <br/>
-   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/main/imgs/3.png" width="60%" />
+   <img alt="" src="https://raw.githubusercontent.com/P923/PyInstaScrap/master/imgs/3.png" width="60%" />
 </div>
 
 ### Prerequisites
